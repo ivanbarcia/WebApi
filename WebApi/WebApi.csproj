@@ -23,7 +23,6 @@
       <Content Include="..\.dockerignore">
         <Link>.dockerignore</Link>
       </Content>
-      <ProjectReference Include="..\WebApi.Data\WebApi.Data.csproj" />
     </ItemGroup>
 
 
